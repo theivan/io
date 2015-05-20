@@ -4,7 +4,7 @@ email:       your_email@example.com
 author:      Ivan
 description: " aesthetic fluff."
 baseurl:     ""
-url:         ""
+url:         "/io"
 
 # Google analytics
 google_analytics: UA-53548208-1
