@@ -3,8 +3,8 @@ title:       Content Life
 email:       your_email@example.com
 author:      Ivan
 description: " aesthetic fluff."
-baseurl:     ""
-url:         "/io"
+baseurl:     "/io"
+url:         "http://ivanodbratt.com"
 
 # Google analytics
 google_analytics: UA-53548208-1
