@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
+title:       Content Life
 email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+author:      Ivan
+description: " aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         ""
 
 # Google analytics
 google_analytics: UA-53548208-1
