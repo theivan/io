@@ -1,8 +1,8 @@
 # Site settings
-title:       Content Life
-email:       your_email@example.com
+title:       The Content Life
+email:       ivan@odbratt.com
 author:      Ivan
-description: " aesthetic fluff."
+description: "A content manager content with life. Kind of."
 baseurl:     ""
 url:         "http://thecontent.life"
 
