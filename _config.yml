@@ -3,8 +3,8 @@ title:       Content Life
 email:       your_email@example.com
 author:      Ivan
 description: " aesthetic fluff."
-baseurl:     "/io"
-url:         "http://ivanodbratt.com"
+baseurl:     ""
+url:         "http://thecontent.life"
 
 # Google analytics
 google_analytics:
