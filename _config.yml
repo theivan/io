@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://thecontent.life"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-48295674-2
 
 # Optional features
 animated:           false
