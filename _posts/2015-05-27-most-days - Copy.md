@@ -1,0 +1,8 @@
+---
+layout:     post
+title:      Home
+date:       2015-05-30 23:00:01
+summary:    Solitude.
+---
+
+![home](images/1422189668989-08f214d6e419.png)
