@@ -9,8 +9,8 @@ layout: default
       <div class="post">
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
           <h3 class="h2 post-title">{{ post.title }}</h3>
-            <span class="post-meta small">{{ minutes }} minute read</span>
         </a>
+        <pre class="post-meta small">{{ post.minutes }} minute read</pre>
           <article class="post-content">
              {{ post.content }}
           </article>
