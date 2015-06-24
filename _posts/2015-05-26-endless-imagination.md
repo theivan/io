@@ -1,8 +1,6 @@
 ---
 layout:     post
 title:      Endless Imagination
-date:       2015-05-26 23:00:00
-summary:    Stare into the night sky
 ---
 
 The cosmos, the word "cosmos" manages to make the hairs on my arms stand up straight. The word "cosmos" is a mysterious one and evokes such primal feelings inside. Whenever I hear that word I can't help but look back to the times of snowboarding or mountain climbing at night and gazing at the huge expanse of our sky. Our very own night show, if I were to have a source of entertainment for the rest of my life I would choose a natural sky line at night. 

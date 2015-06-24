@@ -1,8 +1,6 @@
 ---
 layout:     post
 title:      How do you know?
-date:       2015-05-26 23:00:01
-summary:    Before and after.
 ---
 
 There was a before and after with you - a chasm unlike that which any other event that any one person has ever caused in my life. I can count the days since every major meeting or conversation that we’ve had. I know that there are no red flags here. I know that you wouldn’t hurt me like the others have. I know with certainty that you are good, and that certainty, alive and well inside a cynical soul, has not survived in me many times before. I knew from the first second we spoke that you were going to take me on an adventure, wanted or not. I always hear the phrase "you're one in a million." I see it more like "you're a million good things in one." And I know that you're human just like me. I know you have flaws. I'm not naive in thinking that you will take away everything that could make me unhappy or turn my life into a fairytale. I am realistic if anything. We're all people here. There's just no reason for us to have to be alone. 

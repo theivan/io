@@ -1,8 +1,6 @@
 ---
 layout:     post
 title:      Life is rough.
-date:       2015-05-30 23:00:04
-summary:    In comparison to other animals we are gods.
 ---
 
 None of us were given the choice to be here. But here we are. And we make do. In comparison to other animals we are gods.

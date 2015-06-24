@@ -1,8 +1,6 @@
 ---
 layout:     post
 title:      Lost in Time
-date:       2015-05-26 24:00:00
-summary:    I haven't talked to you for weeks.
 ---
 
 I haven't talked to you for weeks.

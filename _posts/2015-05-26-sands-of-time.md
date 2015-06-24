@@ -1,8 +1,6 @@
 ---
 layout:     post
 title:      The Sands Of Time
-date:       2015-05-26 13:00:00
-summary:    Why do you exist?
 ---
 
 According to [population.io](http://population.io), I am one of 7,317,843,550 - make that 7,317,843, 562 (and counting). So, what make me unique? Hell, what makes any of us unique? As far as we know we all exist on a cosmological speck of dust floating somewhere in space in time. And yet, we're born, we grow, we dream, we aspire, we learn, we grow old and we die. In the infiniteness of the universe, we track the progression of time and will ourselves to create the tools to control it's progression and it's effects.
