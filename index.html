@@ -11,9 +11,9 @@ layout: default
           <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
           <h3 class="h2 post-title">{{ post.title }}</h3>
         </a>
-             <article class="post-content">
-  {{ content }}
-</article>
+          <article class="post-content">
+             {{ post.content }}
+          </article>
       </div>
     {% endfor %}
   </div>
